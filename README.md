@@ -2,4 +2,4 @@
 ***A Passionate Fullstack Software developer having 
 experience of building web and mobile application with 
 javascript / nodejs / angular / react / typescript and 
-some other frame and libraries***
+some other frameworks and libraries***
